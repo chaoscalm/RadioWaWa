@@ -8,7 +8,7 @@
             android:value="true"/>
         <meta-data
             android:name="xposeddescription"
-            android:value="Radio WaWa." />
+            android:value="FMRadio Without Headphones." />
         <meta-data
             android:name="xposedminversion"
             android:value="53" />
