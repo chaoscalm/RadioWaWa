@@ -15,7 +15,7 @@ public class WAWA implements IXposedHookLoadPackage {
 
         // XposedBridge.log("[WAWA] started");
 
-        // https://github.com/LineageOS/android_vendor_qcom_opensource_fm-commonsys/blob/lineage-19.1/fmapp2/src/com/caf/fmradio/FMRadioService.java#L2219
+        // https://github.com/LineageOS/android_vendor_qcom_opensource_fm-commonsys/blob/lineage-20.0/fmapp2/src/com/caf/fmradio/FMRadioService.java
         // https://github.com/LineageOS/android_vendor_qcom_opensource_fm-commonsys
        findAndHookMethod("com.caf.fmradio.FMRadioService", lpparam.classLoader, "isAntennaAvailable", new XC_MethodReplacement() {
             @Override
