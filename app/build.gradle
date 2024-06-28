@@ -6,8 +6,8 @@ android {
         applicationId "com.radio.wawa"
         minSdk 24
         targetSdk 34
-        versionCode 5
-        versionName '1.5'
+        versionCode 6
+        versionName '1.6'
     }
     buildTypes {
         release {
@@ -15,7 +15,6 @@ android {
             proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
         }
     }
-    buildToolsVersion '34.0.0'
     namespace 'com.radio.wawa'
 }
 
