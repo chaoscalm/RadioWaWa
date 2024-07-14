@@ -1,7 +1,7 @@
 # RadioWaWa
 ![output](https://github.com/user-attachments/assets/9f3c5e31-d618-4981-87e5-3bea9ae2fab6)
 
-RadioWaWa is an Xposed module to use LineageOS FMRadio without headphones connected.
+RadioWaWa 🐱 is an Xposed module to use LineageOS FMRadio without headphones connected.
 
 ---
 
