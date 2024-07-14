@@ -17,14 +17,6 @@ RadioWaWa is an Xposed module to use LineageOS FMRadio without headphones connec
 
 * Support [LSPosed Mod](https://github.com/mywalkb/LSPosed_mod)
 
-* Addressed compilation
-
-* Upgraded dependencies
-
-* Addressed LSPosed Manager spam log
-
-* Tested on beryllium with LineageOS 21
-
 ## Hardware peripheral:
 
 The usage of microphone antenna is suggested:
