@@ -15,7 +15,7 @@ RadioWaWa 🐱 is an Xposed module to use LineageOS FMRadio without headphones c
 
 * Support Android 14 QPR3
 
-* Support [LSPosed Mod](https://github.com/mywalkb/LSPosed_mod)
+* Support [LSPosed](https://github.com/JingMatrix/LSPosed)
 
 ## Hardware peripheral:
 
