@@ -26,3 +26,5 @@ The usage of microphone antenna is suggested:
 ## Credits:
 
 * [sequielo](https://github.com/sequielo/LFRWH) Original project
+
+* [SebaUbuntu](https://github.com/SebaUbuntu) Template for build.yml
