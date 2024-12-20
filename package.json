@@ -1,10 +1,13 @@
 {
-  "name": "RadioWaWa",
+  "name": "RadioWaWa-action",
   "version": "1.0.0",
-  "description": "Xposed module to use LineageOS FMRadio without headphones connected",
+  "description": "GitHub Action for RadioWaWa",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "@actions/github": "^5.0.0"
   },
   "author": "",
   "license": "ISC"
