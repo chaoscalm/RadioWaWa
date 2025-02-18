@@ -46,7 +46,6 @@ jobs:
       with:
         script: |
           const { getOctokit } = require('@actions/github');
-          const core = require('@actions/core');
           const githubContext = require('@actions/github').context;
           const token = process.env.GITHUB_TOKEN;
           const octokit = getOctokit(token);
